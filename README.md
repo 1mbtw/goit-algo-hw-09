@@ -1,4 +1,4 @@
-# Coin Change Homework
+# goit-algo-hw-09
 
 I made two algorithms to give change with coins [50, 25, 10, 5, 2, 1]. The task is to
 return a dict with how many coins we use.
